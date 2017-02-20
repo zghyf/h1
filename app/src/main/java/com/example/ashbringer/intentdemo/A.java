@@ -13,8 +13,5 @@ public class A{
         String a="abc";
         return a;
 
-
-
-
     }
 }
